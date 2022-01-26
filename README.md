@@ -7,6 +7,6 @@ GrowTools is a smooth, advanced, user-friendly Growtopia/GrowtopiaPS Tools softw
 <a href="https://github.com/Pronner/GrowTools/releases" alt="GrowTools"><img src="https://media.discordapp.net/attachments/916226674071339010/935928029006426112/image_2022-01-26_200350.png?width=688&height=408" /></a>
 
 ## Is it open-sourced?
-Yes, GrowTools is currently open-source. If you'd like to download it or investigate it's code, click [here](https://github.com/Pronner/GrowTools).
+Yes, GrowTools is currently open-source. If you'd like to download it or investigate it's code, click [here](https://github.com/Pronner/GrowTools/releases).
 
 <a href="https://github.com/Pronner/GrowTools" alt="GrowTools"><img src="https://media.discordapp.net/attachments/916226674071339010/935931029804441650/unknown.png?width=699&height=408" /></a>
